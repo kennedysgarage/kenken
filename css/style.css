@@ -1,5 +1,5 @@
 body{
-	background-color: #EAEBE6;
+	background-color: #EEEBE6;
 }
 #logo{
 	margin-top: -200px;
@@ -18,7 +18,7 @@ body{
 	animation-name: fadeIn;
 }
 #logo img{
-	max-width: 400px;
+	max-width: 500px;
 }
 @-webkit-keyframes fadeIn {
 	0% {opacity: 0;}
